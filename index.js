@@ -10,13 +10,12 @@ For distances greater than 50 miles, taking a plane or train is recommended.
 
  * USE SWITCH/CASE to return the recommended mode of transport based on the distance to be traveled in miles based on distances given above.
 
- * STRETCH: Use process.argv to allow the user to pass in a distance in miles as a command line argument.
- * SUPER STRETCH: Write a jest test that tests for 50 mile or greater input
+ * STRETCH GOAL: Use process.argv to allow the user to pass in a distance in miles as a command line argument.
+ * SUPER STRETCH GOAL: Write a jest test that tests for 50 mile or greater input
  *
  *
  * @param {number} distance - The distance in miles.
  * @returns {string } - The recommended mode of transport.
- * @deafault {string} - Returns
  */
 // transport.js
 
