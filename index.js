@@ -17,7 +17,6 @@ For distances greater than 50 miles, taking a plane or train is recommended.
  * @param {number} distance - The distance in miles.
  * @returns {string} - The recommended mode of transport.
  */
-// transport.js
 
 function getTransportMode(distance) {}
 
