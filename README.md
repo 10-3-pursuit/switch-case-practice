@@ -1,6 +1,7 @@
 # SWITCH CASE
 
 Fork and clone this repo.
+
 _\*\*NOTE:_ Remember to run `npm install`
 
 Follow the instructions in `index.js` You will use `switch/case` to solve this problem.
