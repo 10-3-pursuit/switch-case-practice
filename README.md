@@ -6,7 +6,7 @@ _\*\*NOTE:_ Remember to run `npm install`
 
 Follow the instructions in `index.js`
 
-You will use `switch/case` to solve this problem.
+You will use `switch/case` to solve this problem:
 
 - [MDN Explanation of Switch/Case](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 
